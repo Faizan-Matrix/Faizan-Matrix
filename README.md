@@ -116,10 +116,10 @@ With excellent problem-solving and communication skills, I have collaborated wit
         <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
       <br>Nginx
     </td>
-        <!-- <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="48" height="48" alt="Flutter" />
+        <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/tailwindlabs/heroicons/master/src/outline/tailwindcss.svg" width="48" height="48" alt="TailwindCSS" />
       <br>Flutter
-    </td> -->
+    </td> 
          <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
