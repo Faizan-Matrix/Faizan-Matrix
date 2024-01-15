@@ -8,8 +8,8 @@
 - Skills: Spring Boot, C++, Angular, Nodejs, Tensorflow, Transformers, Keras
 <div align="justify">
 
-[![Instagram](https://img.shields.io/badge/Faizan-%2523E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/faizaneali/)
 [![Linkedin](https://img.shields.io/badge/Faizan-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faizanealiqazi/)
+[![Instagram](https://img.shields.io/badge/Faizan-%2523E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/faizaneali/)
 
 
 </div>  
