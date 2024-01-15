@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @FaizanEAliQazi
 - :smirk: I’m Software Engineer.
 - 🌱 I’m Currently working on Java Enterprise Level Applications.
-- Enrolled in the Datascience Master's Program
+- I'm enrolled in the Data Science Master's Program in FAST NUCES, Karachi
 - 📫 You can reach me out at faizan.ali@softpak.com
 - :heart_eyes: Love to code in Python, c++, java, Javascript.
 - :sunglasses: Can do attitude.
-- Skills: Spring Boot, C++, Angular, Nodejs, Tensorflow, Transformers, Keras
+- Skills: Spring Boot, C++, Angular, Nodejs, React, Python, Typescript, React, Node
 <div align="justify">
 
 [![Linkedin](https://img.shields.io/badge/Faizan-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faizanealiqazi/)
