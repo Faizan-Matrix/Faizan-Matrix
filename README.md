@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FaizanEAliQazi
-- :smirk: I’m Software Engineer.
+- :smirk: I’m a Software Engineer.
 - 🌱 I’m Currently working on Java Enterprise Level Applications.
 - I'm enrolled in the Data Science Master's Program in FAST NUCES, Karachi
-- 📫 You can reach me out at faizan.ali@softpak.com
+- 📫 You can reach me out at faizan.qazi1999@gmail.com
 - :heart_eyes: Love to code in Python, c++, java, Javascript.
 - :sunglasses: Can do attitude.
 - Skills: Spring Boot, C++, Angular, Nodejs, React, Python, Typescript, React, Node
@@ -14,7 +14,7 @@
 
 </div>  
 <p align="justify"> 
-I am an experienced software engineer with a strong proficiency in Javascript, Python, and Java. I have a proven track record of building high-quality software applications, utilizing my expertise in various software development methodologies, such as agile and Scrum.
+I am an experienced software engineer with a strong proficiency in C++, Javascript, Python, and Java. I have a proven track record of building high-quality software applications, utilizing my expertise in various software development methodologies, such as agile and Scrum.
 
 In Python, I am skilled in developing web applications using popular frameworks such as Django and Flask. I am proficient in data analysis, machine learning, and scientific computing libraries such as NumPy and Pandas. I have experience in implementing RESTful APIs, working with databases such as MySQL and PostgreSQL, and deploying applications to cloud platforms such as AWS and Azure.
 
